@@ -1,0 +1,18 @@
+>class,zm_mod_level
+>group,modtools
+
+xmodel,skybox_default_day
+material,luts_t7_default
+	
+// BSP
+col_map,maps/zm/zm_dead_island.d3dbsp
+gfx_map,maps/zm/zm_dead_island.d3dbsp
+
+// Audio
+sound,zm_dead_island
+
+scriptparsetree,scripts/zm/zm_dead_island.gsc
+scriptparsetree,scripts/zm/zm_dead_island.csc
+
+	
+	
